@@ -1,6 +1,6 @@
 # Sentiment Analysis of the Farmers' Protest
 
-In this short project, I have: <br />
+In this project, I have: <br />
 • scraped 1000 tweets regarding the farmers' protests in India <br />
 • cleaned and preprocessed tweets using NLTK in python <br />
 • used textblob to assign polarity scores to each tweet <br />
